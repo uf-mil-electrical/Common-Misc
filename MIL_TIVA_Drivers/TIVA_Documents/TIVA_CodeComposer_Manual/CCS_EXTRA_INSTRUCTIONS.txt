@@ -1,0 +1,29 @@
+Name: CCS_EXTRA_INSTRUCTIONS
+Author:Marquez Jones
+Desc: Additional procedures for making
+      projects in code composer using 
+      TivaWare
+
+What is TivaWare: If you've taken uP
+	you know the pain of writing register level code.
+	TivaWare is a HAL(Hardware Abstraction Layer) provided
+	by TI which includes a set of functions to allow you
+	to fully configure and interact with the MCU platform 
+	without ever having to go down to the register level which
+	speeds up development significantly.
+
+
+DO FIRST: follow TI instructions in the 
+	  spmu352 pdf on installing
+          CCS and TivaWare
+
+INSTRUCTIONS:
+Basically everytime you set up a new project, just copy and 
+paste a project that's already set up to use TivaWare. When 
+you first follow the instructions for installation, you'll have a bunch of example
+projects to look at. Literally right click an opened project,copy it,
+and paste it in your IDE. 
+
+The reason for this is that each project has to be configured and linked
+to the libray files. It's easier to copy and paste then sit down and
+configure it yourself.
