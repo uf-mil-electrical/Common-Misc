@@ -1,0 +1,1 @@
+NOTE: This is a file containing premade schematics for common chips we use in MIL. These schematics will consist of the basic supporting components for the IC to be operational. These schematcis should not include any application specific labels or additions.
