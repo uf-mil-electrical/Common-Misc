@@ -3,7 +3,7 @@ Schematic Name:Tiva_C_Base
 Desc: Documentation for Tiva Base Schematic.
 
 Purpose:
-	This schematic consists of the bare minimum connections for using the Tiva
+This schematic consists of the bare minimum connections for using the Tiva
 on a PCB project. This is a non-task specific schematic to be imported to any project deploying
 the Tiva processor. 
 
@@ -14,7 +14,7 @@ What's Included:
 -Mandatory on LED circuit
 
 Programming:
-	Provided in the schematic is access to JTAG pins via a header. The TI tiva launchpad can be used to program 
+Provided in the schematic is access to JTAG pins via a header. The TI tiva launchpad can be used to program 
 custom designed boards in MIL. This is accomplished by connecting the JTAG pins(TCK,TMS,TDI,TDO), a common GND, and the RESET to the pins on 
 your designed board.
 
