@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRDGICPJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CAN Termination\Design Rule Check - CAN Termination.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
