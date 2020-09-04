@@ -1,2 +1,4 @@
 HOW TO USE:
-Copy and Paste 
+Copy and Paste either the full driver (MIL_TIVA_Drivers) or an individual peripheral (ie MIL_CAN) into your workspace.
+You can then either link the folder via project properties or reference the folder like this
+#include "./MIL_CAN/MIL_CAN.h"
